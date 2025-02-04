@@ -4,7 +4,7 @@
 #feature-category Utilities (or another relevant category)
 
 function install() {
-    var repo = "https://raw.githubusercontent.com/JohnBerger3000/Dead-Pixel-Zapper/scripts/";
+    var repo = "https://raw.githubusercontent.com/JohnBerger3000/Dead-Pixel-Zapper/main/scripts/";
     var scriptFile = "DeadPixelZapper.js"; // Change as needed
 
     var P = new Process;
